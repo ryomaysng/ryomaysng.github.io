@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ryomaysng.github.io/al-folio/sitemap.xml
+Sitemap: https://ryomaysng.github.io/sitemap.xml
